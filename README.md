@@ -6,6 +6,7 @@
 Previous projects include blockchain parsing scripts, neural network models, and DEX smart contracts.
 
 NFT Auction Platform: Link - https://nameless-castle-94869-6cdd3e0d35fe.herokuapp.com/
+
 Full-Stack Music Distribution Mobile Application: Video Demo - https://www.youtube.com/watch?v=yz3bGXdSrzQ&feature=youtu.be 
 
 Check out my LinkedIn: 

@@ -1,7 +1,9 @@
-## Hi, I'm Muhammad Al-Atrash 👋
+## Muhammad Al-Atrash
 
 ##
-I'm a passionate software engineer specializing in blockchain technology, decentralized applications, and full-stack development.
+'m a computer science and engineering student at UVA with experience building full-stack web and mobile applications. Currently, I have two live projects: a music player mobile app (React Native, TypeScript, Firebase) and an NFT auction platform frontend (React, Node.js, Heroku). 
+
+Previous projects include blockchain parsing scripts, neural network models, and DEX smart contracts.
 
 
 

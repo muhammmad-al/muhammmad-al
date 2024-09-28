@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Muhammad Al-Atrash 👋
+
+##
+I'm a passionate software engineer specializing in blockchain technology, decentralized applications, and full-stack development.
+
+
 
 <!--
 **muhammmad-al/muhammmad-al** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

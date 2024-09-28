@@ -4,7 +4,7 @@ I'm a computer science and engineering student at UVA with experience building f
 
 Academic projects include blockchain parsing scripts, neural network models, and Solidity smart contracts.
 
-[Check out my LinkedIn](https://www.linkedin.com/in/muhammad-al-atrash-38b357309/)
+Check out my [LinkedIn](https://www.linkedin.com/in/muhammad-al-atrash-38b357309/)
 
 
 <!--

@@ -5,7 +5,10 @@ I'm a computer science and engineering student at UVA with experience building f
 - 🎵 [**Music Player Mobile Application**](https://www.youtube.com/watch?v=yz3bGXdSrzQ&feature=youtu.be): A fully functional music player built using **React Native**, **TypeScript**, and **Firebase**.
 - 🖼️ [**NFT Auction Platform Frontend**](https://nameless-castle-94869-6cdd3e0d35fe.herokuapp.com/): Developed the frontend of an NFT auction platform using **React**, **Node.js**, and deployed on **Heroku**.
 
-Academic projects include blockchain parsing scripts, neural network models, and Solidity smart contracts.
+## 💻 Academic Projects:
+- Full-stack web application for tracking honor code violations (**Django**, **PostgreSQL**, **Google OAuth**, **AWS S3**.
+- **Python** Bitcoin blockchain parsing script and **Solidity** smart contracts for decentralized finance applications.
+- **PyTorch** neural network model for music genre classification tasks.
 
 Check out my [LinkedIn](https://www.linkedin.com/in/muhammad-al-atrash-38b357309/)
 

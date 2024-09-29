@@ -1,6 +1,6 @@
 ## Muhammad Al-Atrash
 
-I'm a computer science and engineering student at UVA with experience building full-stack web and mobile applications. Currently, I have three live projects: a [music player mobile application](https://www.youtube.com/watch?v=yz3bGXdSrzQ&feature=youtu.be) (React Native, TypeScript, Firebase), [full-stack web application designed to track honor code violation reports](https://honorcodeviolationapp-283af82898da.herokuapp.com/) (Django, PostgreSQL, AWS S3) and a [NFT auction platform](https://nameless-castle-94869-6cdd3e0d35fe.herokuapp.com/) frontend (React, Node.js, Heroku).
+I'm a computer science and engineering student at UVA with experience building full-stack web and mobile applications. Currently, I have three live projects: a [music player mobile application](https://www.youtube.com/watch?v=yz3bGXdSrzQ&feature=youtu.be) (React Native, TypeScript, Firebase), [full-stack web application designed to track academic honor code violation reports](https://honorcodeviolationapp-283af82898da.herokuapp.com/) (Django, PostgreSQL, AWS S3) and a [NFT auction platform](https://nameless-castle-94869-6cdd3e0d35fe.herokuapp.com/) frontend (React, Node.js, Heroku).
 
 Academic projects include blockchain parsing scripts, neural network models, and Solidity smart contracts.
 

@@ -1,6 +1,6 @@
 ## Muhammad Al-Atrash
 
-I'm a computer science and engineering student at UVA with experience building full-stack web and mobile applications. Currently, I have two live projects: 
+I'm a computer science and engineering student at the University of Virginia with experience building full-stack web and mobile applications. Currently, I have two live projects: 
 
 - 🎵 [**Music Player Mobile Application**](https://www.youtube.com/watch?v=yz3bGXdSrzQ&feature=youtu.be): A fully functional music player built using **React Native**, **TypeScript**, and **Firebase**.
 - 🖼️ [**NFT Auction Platform Frontend**](https://nameless-castle-94869-6cdd3e0d35fe.herokuapp.com/): Developed the frontend of an NFT auction platform using **React**, **Node.js**, and deployed on **Heroku**.

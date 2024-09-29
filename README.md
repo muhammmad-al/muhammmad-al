@@ -6,7 +6,7 @@ I'm a computer science and engineering student at the University of Virginia wit
 - 🖼️ [**NFT Auction Platform Frontend**](https://nameless-castle-94869-6cdd3e0d35fe.herokuapp.com/): Developed the frontend of an NFT auction platform using **React**, **Node.js**, and deployed on **Heroku**.
 
 💻 Academic Projects:
-- Full-stack web application for tracking honor code violations (**Django**, **PostgreSQL**, **Google OAuth**, **AWS S3**.
+- Full-stack web application for tracking honor code violations (**Django**, **PostgreSQL**, **AWS S3**, **Google OAuth**).
 - **Python** Bitcoin blockchain parsing script and **Solidity** smart contracts for decentralized finance applications.
 - **PyTorch** neural network model for music genre classification tasks.
 

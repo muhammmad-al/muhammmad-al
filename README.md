@@ -10,7 +10,7 @@ I'm a computer science and engineering student at the University of Virginia wit
 - **Python** Bitcoin blockchain parsing script and **Solidity** smart contracts for decentralized finance applications.
 - Neural network model for music genre classification tasks (**PyTorch**).
 
-Check out my [LinkedIn](https://www.linkedin.com/in/muhammad-al-atrash-38b357309/)
+Check out my [**LinkedIn**](https://www.linkedin.com/in/muhammad-al-atrash-38b357309/)
 
 
 <!--

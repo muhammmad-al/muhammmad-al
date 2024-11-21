@@ -3,7 +3,7 @@
 I'm a computer science and engineering student at The University of Virginia with experience building privacy-preserving AI systems, full-stack web/mobile applications, and smart contracts. Currently, I have two live projects: 
 
 - 🤖 **Decentralized Sentiment-Based Content Recommender System**: Developing a privacy-preserving AI content recommendation system to demonstrate comparable recommendation quality to centralized systems while protecting user privacy. Data collection system connects to **Reddit API** to **scrape public posts** and generates mock private user interaction data. **Federated learning** architecture performs dual **sentiment analysis** to classify content (achieving ~90% global model performance). 
-- 🎵 [**Music Player Mobile Application**](https://www.youtube.com/watch?v=yz3bGXdSrzQ&feature=youtu.be): A fully functional music player built using **React Native**, **TypeScript**, and **Firebase**.
+- 🎵 **Music Player Mobile Application**: A fully functional music player built using **React Native**, **TypeScript**, and **Firebase**.
 
 
 💻 Academic Projects:

@@ -8,7 +8,7 @@ I'm a computer science and engineering student at The University of Virginia wit
 
 💻 Academic Projects:
 - Full-stack web application for tracking honor code violations (**Django**, **PostgreSQL**, **AWS S3**, **Google OAuth**).
-- **Python** Bitcoin blockchain parsing script and **Solidity** smart contracts for decentralized finance applications.
+- **Python** Bitcoin blockchain parsing script and **Solidity** smart contracts for DeFi applications.
 - Neural network model for music genre classification tasks (**PyTorch**).
 
 Check out my [**LinkedIn**](https://www.linkedin.com/in/muhammad-al-atrash-38b357309/)

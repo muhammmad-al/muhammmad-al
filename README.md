@@ -1,17 +1,8 @@
 ## Muhammad Al-Atrash
 
-I'm a computer science and engineering student at The University of Virginia with experience building privacy-preserving AI systems, full-stack web/mobile applications, and smart contracts. Currently, I have two live projects: 
+I'm a computer science and engineering student at The University of Virginia with experience building privacy-preserving AI systems, full-stack web/mobile applications, and smart contracts. 
 
-- 🤖 **Decentralized Sentiment-Based Content Recommender System**: Developing a privacy-preserving AI content recommendation system to demonstrate comparable recommendation quality to centralized systems while protecting user privacy. Data collection system connects to **Reddit API** to **scrape public posts** and generates mock private user interaction data. **Federated learning** architecture performs dual **sentiment analysis** to classify content (achieving ~90% global model performance). 
-- 🎵 **Music Player Mobile Application**: A fully functional music player built using **React Native**, **TypeScript**, and **Firebase**.
-
-
-💻 Academic Projects:
-- Full-stack web application for tracking honor code violations (**Django**, **PostgreSQL**, **AWS S3**, **Google OAuth**).
-- **Python** Bitcoin blockchain parsing script and **Solidity** smart contracts for DeFi applications.
-- Neural network model for music genre classification tasks (**PyTorch**).
-
-Check out my [**LinkedIn**](https://www.linkedin.com/in/muhammad-al-atrash-38b357309/)
+Check out my projects below or connect with me on [**LinkedIn**](https://www.linkedin.com/in/muhammad-al-atrash-38b357309/)
 
 
 <!--

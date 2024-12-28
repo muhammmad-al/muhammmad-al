@@ -1,6 +1,6 @@
 ## Muhammad Al-Atrash
 
-I'm a computer science and engineering student at The University of Virginia with experience building privacy-preserving AI systems, full-stack web/mobile applications, and smart contracts. 
+I'm a computer science and engineering graduate from The University of Virginia with experience building privacy-preserving AI systems, full-stack web/mobile applications, and smart contracts. 
 
 Check out my projects below or connect with me on [**LinkedIn**](https://www.linkedin.com/in/muhammad-al-atrash-38b357309/)
 

@@ -1,6 +1,6 @@
 ## Muhammad Al-Atrash
 
-I'm a Blockchain Engineer at Gelato Network and Computer Science and Engineering graduate from The University of Virginia with experience building privacy-preserving AI systems, full-stack web/mobile applications, and smart contract automation solutions. 
+I'm a Web3 Engineer at Gelato Network and Computer Science and Engineering graduate from The University of Virginia with experience in blockchain integration, smart contract automation solutions, decentralized AI, and full-stack web/mobile development.   
 
 Check out my projects below or connect with me on [**LinkedIn**](https://www.linkedin.com/in/muhammad-al-atrash-38b357309/)
 

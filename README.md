@@ -1,8 +1,8 @@
 ## Muhammad Al-Atrash
 
-I'm a software engineer at [**Gelato Network**](https://www.gelato.cloud) and computer science + engineering graduate from The University of Virginia with experience in smart contract automation, decentralized AI, and full-stack web/mobile development.   
+I'm a software engineer at [Gelato Network](https://www.gelato.cloud) and computer science + engineering graduate from The University of Virginia with experience in smart contract automation, decentralized AI, and full-stack web/mobile development.   
 
-Check out my projects below or connect with me on [**LinkedIn**](https://www.linkedin.com/in/muhammad-al-atrash-38b357309/)
+Check out my projects below or connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-al-atrash-38b357309/)
 
 
 <!--
